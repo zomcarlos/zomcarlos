@@ -10,6 +10,6 @@
 <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><label>    CSS</label></li>
 <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><label>    HTML</label>
 </li>
-<li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/angular-original.svg"><label>    Angular</label>
+<li><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"><label>    Angular</label>
 </li>
 </ul>
