@@ -3,8 +3,8 @@
   <br>
   ->Esse espaço é para projetos pessoais, repositórios do curso e demais códigos que eu considerar interessantes de serem "guardados"🗂
  <br>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-" />
+<img src="(https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+)" />
 <img src="BadgeURLAqui" />
 <img src="BadgeURLAqui" />
 <img src="BadgeURLAqui" />
