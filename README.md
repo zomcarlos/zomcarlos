@@ -23,12 +23,7 @@ Essas são algumas das tecnologias que estou estudando/trabalhando atualmente:
 
 ## 📊 Estatísticas
 <h3>Abaixo estão algumas estatísticas minhas:</h3>
-<img src="https://komarev.com/ghpvc/?username=zomcarlos&label=Profile%20views&color=0e75b6&style=flat">
-<br/>
 <div align="center">
 <a href="https://github.com/zomcarlos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zomcarlos&border_color=000000&layout=compact&langs_count=7&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zomcarlos&show_icons=true&theme=algolia&border_color=000000&include_all_commits=true&count_private=true"/>
-
-## Cobrinha comendo meus commits 🐍:
- ![Snake animation](https://github.com/zomcarlos/zomcarlos/blob/output/github-contribution-grid-snake.svg)
