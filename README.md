@@ -22,7 +22,6 @@ Essas são algumas das tecnologias que estou estudando/trabalhando atualmente:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Estatísticas
-<h3>Abaixo estão algumas estatísticas minhas:</h3>
 <div align="center">
 <a href="https://github.com/zomcarlos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zomcarlos&border_color=000000&layout=compact&langs_count=7&theme=algolia"/>
