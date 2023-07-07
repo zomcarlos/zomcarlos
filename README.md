@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Me chamo Carlos Zomer, sou estudante da área de computação e trabalho numa desenvolvedora de softwares ✌️
+Me chamo Carlos Zomer, sou estudante da área de computação e trabalho numa desenvolvedora de softwares (cujo servidor tem quase todos os meus commits hahahahah😂) ✌️
 
 ## 🛸 Tecnologias
 
