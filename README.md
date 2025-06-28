@@ -1,4 +1,2 @@
-<p> Hi, I'm Carlos Zomer! If you want to, reach me on Linkedin. <p>
+<p> Hi, I'm Carlos Zomer! It's not me in the picture, if you still want to contact me, reach me on LinkedIn. See ya! <p>
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="230">
-
-[![Linkedin: carloszomer](https://img.shields.io/badge/-carloszomer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-zomer-691b45231//)](https://www.linkedin.com/in/carlos-zomer-691b45231/)
