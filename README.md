@@ -1,1 +1,1 @@
-<p> Hi, I'm Carlos Zomer! It's not me in the picture, if you still want to contact me, reach me on LinkedIn. See ya! <p>
+<p>Hi, I'm Carlos! I'm currently developing the sales platform for POS devices and other financial products at @pagseguro. That's not me in the picture, but if you'd still like to get in touch, feel free to reach out to me on LinkedIn. See you!</p>
